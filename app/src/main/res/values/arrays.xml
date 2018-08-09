@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="slot_logos">
+        <item>@drawable/a777_1</item>
+        <item>@drawable/a777_2</item>
+        <item>@drawable/a777_3</item>
+        <item>@drawable/a777_4</item>
+        <item>@drawable/a777_5</item>
+
+    </array>
+    <string-array name="nba_logo_name">
+        <item>knicks</item>
+        <item>magic</item>
+        <item>pistons</item>
+        <item>spurs</item>
+        <item>nets</item>
+        <item>clippers</item>
+        <item>76ers</item>
+        <item>suns</item>
+        <item>hornets</item>
+        <item>raptors</item>
+        <item>lakers</item>
+        <item>warriors</item>
+    </string-array>
+</resources>
